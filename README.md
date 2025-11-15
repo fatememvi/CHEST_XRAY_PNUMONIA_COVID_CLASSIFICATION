@@ -5,6 +5,7 @@ Project Description
 This project focuses on automatic detection of pneumonia in  chest X-ray (CXR) images using Convolutional Neural Networks (CNNs) implemented in PyTorch. The dataset consists of labeled images divided into Normal , Pneumonia and Covid classes. Advanced data augmentation techniques are applied to improve model generalization.
 
 The main goal is to provide a reliable AI-based tool for early diagnosis of pneumonia in Adults, which can be especially useful in low-resource healthcare settings.
+
 Source: https://www.kaggle.com/datasets/sachinkumar413/covid-pneumonia-normal-chest-xray-images
 classes :
 -Pnemonia : 1800 images
